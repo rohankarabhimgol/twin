@@ -1,0 +1,22 @@
+{
+    "full_name": "Rohan Anil Karabhimgol",
+    "name": "Rohan",
+    "current_role": "Masters Student in AI",
+    "location": "Cottbus, Germany",
+    "email": "rohankarabhimgol@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/rohan-karabhimgol-45a636347",
+    "specialties": [
+        "Generative AI",
+        "LLM Engineering",
+        "Context Engineering",
+        "Agentic AI"
+    ],
+    "years_experience": 1,
+    "education": [
+      {
+        "degree": "Masters in AI",
+        "institution": "Brandenburg University of Technology Cottbus-Senftenberg",
+        "year": "2024-current"
+      }
+    ]
+}
