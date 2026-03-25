@@ -7,14 +7,14 @@ terraform.tfstate.d/
 *.tfvars.secret
 
 # Lambda packages
-lambda-deployment.zip
-lambda-package/
+**/lambda-deployment.zip
+**/lambda-package/
 
 # Memory storage (contains conversation history)
 memory/
 
 # Environment files
-.env
+**/.env
 .env.*
 !.env.example
 
